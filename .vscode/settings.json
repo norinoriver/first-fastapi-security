@@ -8,9 +8,9 @@
     "python.languageServer": "Pylance",
     "python.analysis.completeFunctionParens": true,
     "python.analysis.extraPaths": [
-      "/Users/arakawataiyuu/Documents/myProject/python/vscode-read-poetry/.venv/lib/python3.8/site-packages" // <= .venvのパスを設定
+      ".venv/lib/python3.8/site-packages" // <= .venvのパスを設定
     ],
     "python.autoComplete.extraPaths": [
-      "/Users/arakawataiyuu/Documents/myProject/python/vscode-read-poetry/.venv/lib/python3.8/site-packages" // <= .venvのパスを設定
+      ".venv/lib/python3.8/site-packages" // <= .venvのパスを設定
     ],
 }
