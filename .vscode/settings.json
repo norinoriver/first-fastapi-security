@@ -8,9 +8,9 @@
     "python.languageServer": "Pylance",
     "python.analysis.completeFunctionParens": true,
     "python.analysis.extraPaths": [
-      ".venv/lib/python3.8/site-packages" // <= .venvのパスを設定
+      ".venv/lib/python3.8/site-packages"
     ],
     "python.autoComplete.extraPaths": [
-      ".venv/lib/python3.8/site-packages" // <= .venvのパスを設定
+      ".venv/lib/python3.8/site-packages"
     ],
 }
